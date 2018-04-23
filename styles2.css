@@ -1,0 +1,20 @@
+#titulo1{
+    color: white;
+    background-color: #434343;
+    width: 100%;
+
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+
+}
+.columna{
+    width: 33.3333%;
+    float: left;
+    margin-left: 25%
+}
